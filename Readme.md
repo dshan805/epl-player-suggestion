@@ -1,6 +1,8 @@
 # English Premier League Player Suggestion
 
-Using historical player statistics and FIFA 21 data, it suggests the most similar players to a given player based on their performance metrics using the K-Nearest Neighbors (KNN) algorithm.
+In the highly competitive world of professional football, strategic player recruitment and squad management are paramount. This English Premier League Player Suggestion tool was developed to address a critical challenge faced by scouting departments and clubs: efficiently identifying statistically similar players. This is particularly vital when seeking a replacement for a key player who has been sold, or when exploring alternative transfer targets after an initial preferred option becomes unavailable.
+
+The tool analyzes historical player statistics and FIFA 21 data to provide data-driven recommendations. It combines comprehensive EPL Statistics (all-time performance) with detailed FIFA 21 Player Attributes (e.g., positions) to create a robust dataset. The system then utilizes the K-Nearest Neighbors (KNN) algorithm to find the most statistically similar players to a given input player. It handles user input, validates player names using fuzzy matching, and suggests similar players based on their comprehensive statistical profile.
 
 ---
 
