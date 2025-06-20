@@ -1,6 +1,6 @@
 # English Premier League Player Suggestion
 
-This project provides a player recommendation system for the English Premier League (EPL). Using historical player statistics and FIFA 21 data, it suggests the most similar players to a given player based on their performance metrics.
+Using historical player statistics and FIFA 21 data, it suggests the most similar players to a given player based on their performance metrics using the K-Nearest Neighbors (KNN) algorithm.
 
 ---
 
